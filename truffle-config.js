@@ -43,7 +43,7 @@ module.exports = {
   //
   compilers: {
     solc: {
-      version: "0.6.12",
+      version: "18.20",
       settings: {          // See the solidity docs for advice about optimization and evmVersion
         optimizer: {
           enabled: false,
